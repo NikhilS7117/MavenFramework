@@ -9,6 +9,6 @@ public class AppTest extends TestCase
 @org.testng.annotations.Test
 	public void CreateTest()
     {
-    	System.out.println("HELLO MAVEN VAI CMD")
+    	System.out.println("HELLO MAVEN VAI CMD");
     }
 }
